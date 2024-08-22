@@ -45,8 +45,8 @@ message(here::here())
 
 
 # get the zip file
-zip_file <- list.files(pattern = ".zip", full.names = TRUE)
-
+zip_file <- list.files(pattern = ".zip$", full.names = TRUE)
+zip_file
 
 # unzip the contents to the top project dir
 if (file.exists(zip_file)) {
