@@ -1,0 +1,438 @@
+"season","opponent","data","player","solo","ast","tot","tfl_yds","tfl","sack_yds","sacks","ff","fr_yds","fumbl","int","int_1","brup","blkd","qh","team","game_id"
+2023,"Cal Lutheran University","defense","Fernandez, C.","7","4","11","-/-","-","-/-","-","1","1-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","Bright, Thanio","4","2","6","1.0/5","1.0","1.0/5","1.0","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","O'Connell, J.","5","1","6","-/-","-","-/-","-","-","0-0","-/-","1-46","1","1","-","1","home",7949
+2023,"Cal Lutheran University","defense","Gangi-Saroukhan","4","1","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Baynes, Kirby","2","2","4","1.0/2","1.0","-/-","-","-","0-0","-/-","1-0","1","2","-","-","home",7949
+2023,"Cal Lutheran University","defense","Zhou, Harry","2","2","4","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Costa, Elijah","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","MacEachron, T.","1","2","3","1.0/4","1.0","1.0/4","1.0","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","King III, E.","3","-","3","1.0/14","1.0","1.0/14","1.0","1","1-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Cryan, Connor","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Wilde, Nick","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","Littlefield, B.","1","1","2","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Jackson, CJ","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Foster, Grant","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Cynkar, A.","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Kroshchuk, D.","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Cioe, Chase","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Jorgensen, K.","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Kruger, George","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","Carrasquillo, A","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Johnson, Grady","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Lau, Andrew","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Chang, Caleb","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Malley, Jason","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","White, Kevin","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","Hamlin, Tarius","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","Burton, Tom","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7949
+2023,"Cal Lutheran University","defense","Team","-","-","-","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7949
+2023,"Cal Lutheran University","defense","Serrano, Diego","4","6","10","1.5/5","1.5","0.5/1","0.5","-","0-0","-/-","1-15","1","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Orta, Arthur","4","3","7","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Nolan, Jackson","3","3","6","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Muhammad , Zach","3","3","6","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Goosby, Devon","2","4","6","0.5/1","0.5","0.5/1","0.5","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Moore, John","4","1","5","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7949
+2023,"Cal Lutheran University","defense","Frey,Jake","2","2","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Sunia, Jordan","2","2","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Juarez, Max","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Pudas, Robbie","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Townsend, AJ","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","White, Jackson","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Line, Leighton","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Roe, Gavin","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Hall, Hunter","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Ninekirk, Zack","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Aliu, Osi","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Schuck, Trevor","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Thompson, Desmo","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Herrera, Adam","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Mills, Troy","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Scanlan, Kilo","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7949
+2023,"Cal Lutheran University","defense","Nolan,Jackson","8","1","9","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Frey,Jake","4","4","8","1.0/2","1.0","-/-","-","1","1-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Mills,Troy","5","2","7","1.0/6","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Juarez,Max","2","4","6","1.0/2","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Goosby,Devon","1","3","4","1.0/5","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Aliu,Osi","3","-","3","1.0/2","1.0","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7955
+2023,"Cal Lutheran University","defense","Herrera,Adam","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Muhammad ,Zacharias","2","1","3","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Baker,Shaihi","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","1","home",7955
+2023,"Cal Lutheran University","defense","Hall,Hunter","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Townsend,AJ","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Cadam,Cade","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Aseh,Sam","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","White,Jackson","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Orta,Arthur","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Moore,John","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Smith,Bennington","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Scanlan,Kilo","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Ninekirk,Zack","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Burgos,Daniel","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Andrade,JP","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Wilson,Luke","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7955
+2023,"Cal Lutheran University","defense","McNamara,James","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Gallego,Anthony","-","-","-","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7955
+2023,"Cal Lutheran University","defense","Asta,Joey","6","2","8","1.5/10","1.5","1.0/8","1.0","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Baynes,Kirby","4","1","5","-/-","-","-/-","-","1","1-0","-/-","-","-","1","-","-","away",7955
+2023,"Cal Lutheran University","defense","King III,Emmett Thomas","3","2","5","2.0/20","2.0","1.0/19","1.0","1","1-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Littlefield,Benjamin","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","O'Connell,Jacob","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","MacEachron,Thomas","2","1","3","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Houk,Michael","3","-","3","1.0/3","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Brutto,Rich","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Cryan,Connor","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","2","-","-","away",7955
+2023,"Cal Lutheran University","defense","Reddinger,Addison","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Costa,Elijah","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Chang,Caleb","-","2","2","0.5/1","0.5","-/-","-","-","0-2","2/6","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Gangi-Saroukhanioff,Gabe","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Gerber,Evan","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Holden,Jack","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7955
+2023,"Cal Lutheran University","defense","Rosenberg,Daniel","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Foster,Grant","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7955
+2023,"Cal Lutheran University","defense","Posthauer,Joe","-","1","1","0.5/-","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","White,Kevin","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Cioe,Chase","-","1","1","-/-","-","-/-","-","-","0-0","-/-","1-40","1","1","-","-","away",7955
+2023,"Cal Lutheran University","defense","Carfaro,Luke","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Zhou,Harry","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Sablan,Xzavier","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Jorgensen,Kobey","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Kang,Chris","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Craig,Quintin","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","1","-","away",7955
+2023,"Cal Lutheran University","defense","Edwards,Justin","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Cal Lutheran University","defense","Kim,Ben","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7955
+2023,"Chapman University","defense","Terriquez,Alexander","3","4","7","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Hardin,Roman","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Jordan,Kade","5","-","5","1.0/1","1.0","-/-","-","1","1-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Martin,Renick","5","-","5","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7951
+2023,"Chapman University","defense","Headlee,Hunter","3","1","4","-/-","-","-/-","-","-","0-0","-/-","1-43","1","-","-","-","home",7951
+2023,"Chapman University","defense","Keefe,Collin","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","1","home",7951
+2023,"Chapman University","defense","Muñoz,Isaiah","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Sieben,Kyle","2","1","3","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Holbrook,Seth","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Greve,Evan","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","1","home",7951
+2023,"Chapman University","defense","Barmore, Jr.,Alphonso","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Donato,Harrison","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Hartigan,Ty","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Hill,Tyler","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Sheets,Jonathan","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Pacheco,Tyler","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Baierl,Ken","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7951
+2023,"Chapman University","defense","Asta,Joey","6","2","8","0.5/4","0.5","0.5/4","0.5","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Posthauer,Joe","4","3","7","0.5/-","0.5","-/-","-","-","0-0","-/-","-","-","-","-","1","away",7951
+2023,"Chapman University","defense","Thomas King,Emmett","5","2","7","1.0/6","1.0","-/-","-","-","0-0","-/-","-","-","-","-","1","away",7951
+2023,"Chapman University","defense","Holden,Jack","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Baynes,Kirby","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Bright,Thanio","2","1","3","-/-","-","-/-","-","-","0-0","-/-","1-1","1","-","-","-","away",7951
+2023,"Chapman University","defense","O'Connell,Jacob","3","-","3","1.0/1","1.0","-/-","-","-","0-0","-/-","1-0","1","-","-","-","away",7951
+2023,"Chapman University","defense","Jorgensen,Kobey","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Gerber,Evan","1","2","3","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Wilde,Nick","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Costa,Elijah","1","1","2","0.5/3","0.5","0.5/3","0.5","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Fernandez,Cesar","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Hamlin,Tarius","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Gangi-Saroukhanioff,Gabe","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Cryan,Connor","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7951
+2023,"Chapman University","defense","Reddinger,Addison","1","-","1","1.0/2","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Miller,Calvin","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Malley,Jason","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Kuhlenkamp,Walter","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Brutto,Rich","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Cynkar,Anderson","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7951
+2023,"Chapman University","defense","Houk,Michael","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","1","away",7951
+2023,"Chapman University","defense","Chase Cioe","5","4","9","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Jacob O'Connell","2","6","8","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Emmett Thomas King III","4","4","8","2.0/2","2.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Joey Asta","-","7","7","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Benjamin Littlefield","2","4","6","2.0/5","2.0","1.0/4","1.0","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Caleb Chang","1","4","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Joe Posthauer","1","3","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Connor Cryan","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7954
+2023,"Chapman University","defense","Kirby Baynes","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Elijah Costa","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","1","home",7954
+2023,"Chapman University","defense","Kobey Jorgensen","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Cesar Fernandez","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7954
+2023,"Chapman University","defense","Jack Holden","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Aidan Cushing","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Jacob Fenton","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Addison Reddinger","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","George Kruger","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Quintin Craig","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Michael Houk","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7954
+2023,"Chapman University","defense","Nick Wilde","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7954
+2023,"Chapman University","defense","Hunter Headlee","5","4","9","2.0/5","2.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Kyle Sieben","3","5","8","1.0/12","1.0","1.0/12","1.0","-","0-0","-/-","-","-","-","-","2","away",7954
+2023,"Chapman University","defense","Kade Jordan","4","4","8","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7954
+2023,"Chapman University","defense","Roman Hardin","3","4","7","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7954
+2023,"Chapman University","defense","Renick Martin","5","2","7","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7954
+2023,"Chapman University","defense","Collin Keefe","3","4","7","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Alex Terriquez","5","2","7","2.0/4","2.0","-/-","-","-","0-0","-/-","-","-","-","-","1","away",7954
+2023,"Chapman University","defense","Evan Greve","1","3","4","0.5/2","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Luk Porteneuve","1","2","3","1.0/6","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Tho DiVittorio","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Cooper Ahlers","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Adam Andrade","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Hunter Wickham","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Ty Hartigan","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"Chapman University","defense","Jonatha Sheets","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7954
+2023,"George Fox University","defense","King III, E.","2","7","9","2.0/17","2.0","1.0/11","1.0","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Bright, Thanio","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","O'Connell, J.","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Costa, Elijah","4","1","5","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7948
+2023,"George Fox University","defense","Cryan, Connor","4","-","4","-/-","-","-/-","-","-","0-0","-/-","-","-","2","-","-","home",7948
+2023,"George Fox University","defense","Baynes, Kirby","3","1","4","1.0/5","1.0","-/-","-","-","0-0","-/-","1-26","1","1","-","1","home",7948
+2023,"George Fox University","defense","Chang, Caleb","1","3","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","MacEachron, T.","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Zhou, Harry","1","2","3","1.0/7","1.0","1.0/7","1.0","-","0-0","-/-","-","-","-","-","1","home",7948
+2023,"George Fox University","defense","Fernandez, C.","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Gangi-Saroukhan","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Jorgensen, K.","-","2","2","0.5/-","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Holden, Jack","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Fenton, Jacob","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Posthauer, Joe","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Reddinger, A.","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Kang, Chris","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7948
+2023,"George Fox University","defense","Kruger, George","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Littlefield, B.","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Gerber, Evan","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Jackson, CJ","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7948
+2023,"George Fox University","defense","Miller, Calvin","-","-","-","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7948
+2023,"George Fox University","defense","Hamlin, Tarius","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7948
+2023,"George Fox University","defense","Holsey, Zak","3","6","9","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7948
+2023,"George Fox University","defense","Andrews, Kobe","6","3","9","1.0/3","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Tack, Noah","2","6","8","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Wylie, Nash","2","6","8","1.0/1","1.0","-/-","-","-","0-0","-/-","1-0","1","-","-","-","away",7948
+2023,"George Fox University","defense","Canchola, Austi","4","3","7","1.0/4","1.0","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7948
+2023,"George Fox University","defense","Williams, Hunte","3","4","7","1.0/7","1.0","1.0/7","1.0","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Schaan, Kiegan","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","2","-","-","away",7948
+2023,"George Fox University","defense","Erickson, Jacob","2","2","4","1.0/4","1.0","1.0/4","1.0","-","0-0","-/-","-","-","1","-","2","away",7948
+2023,"George Fox University","defense","Martin, Nolan","2","2","4","1.0/3","1.0","1.0/3","1.0","-","0-0","-/-","1-42","1","2","-","-","away",7948
+2023,"George Fox University","defense","Turituri, Jaxso","-","4","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Phillips, Matth","1","1","2","1.5/3","1.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Koenig, Nathani","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Goetz, Bryce","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Marks, Jaron","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Kunze, Dustin","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Mazurowski, Bla","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Candanoza, Loga","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Price, Cody","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","Jefferies, Dani","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7948
+2023,"George Fox University","defense","McElfish, Caleb","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","1","-","away",7948
+2023,"La Verne University","defense","Chase Yanez","6","2","8","1.0/2","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","A. Esquivel","4","3","7","0.5/3","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Devin Martin","2","4","6","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Angel Diaz","1","4","5","0.5/3","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","A. Orange II","5","-","5","1.0/4","1.0","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7952
+2023,"La Verne University","defense","Josef Tena","2","2","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Hector Facio","2","2","4","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7952
+2023,"La Verne University","defense","Aidan Clinton","1","3","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Jomar Brown","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","O. Montenegro","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Nathan Tagaloa","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","John Whisnant","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Jeremiah Naylor","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Salah Odeh","1","1","2","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Austin Marin","2","-","2","1.0/8","1.0","1.0/8","1.0","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","De Lante' Moore","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Joseph Finnell","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Adrian Vargas","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Braeden Varney","-","1","1","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Kekoa Barnes","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","T. Williams","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Trayjan Jumawan","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Tyler Gonzalez","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","David Sisneros","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7952
+2023,"La Verne University","defense","Asta, Joey","6","2","8","3.5/16","3.5","2.5/14","2.5","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Bright, Thanio","5","2","7","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Posthauer, Joe","3","2","5","2.0/3","2.0","1.0/2","1.0","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Baynes, Kirby","4","-","4","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7952
+2023,"La Verne University","defense","Chang, Caleb","3","1","4","1.0/3","1.0","1.0/3","1.0","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","King III, Emmett Tho","3","1","4","1.0/2","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Holden, Jack","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","O'Connell, Jaco","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","2","-","-","away",7952
+2023,"La Verne University","defense","Wilde, Nick","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Sablan, Xzavier","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Burton, Tom","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Costa, Elijah","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Littlefield, Be","1","1","2","1.5/9","1.5","1.5/9","1.5","1","1-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Nixon, Cooper","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Reddinger, Addi","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","White, Kevin","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Carfaro, Luke","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7952
+2023,"La Verne University","defense","MacEachron, Tho","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Jorgensen, Kobe","1","-","1","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Edwards, Justin","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Kruger, George","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Johnson, Grady","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Prieto, Jake","-","1","1","0.5/4","0.5","0.5/4","0.5","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Benzan, Enzo","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Malley, Jason","1","-","1","1.0/3","1.0","1.0/3","1.0","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Gangi-Saroukhan","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7952
+2023,"La Verne University","defense","Gerber, Evan","-","1","1","0.5/4","0.5","0.5/4","0.5","-","0-1","1/-","-","-","1","-","-","away",7952
+2023,"La Verne University","defense","Cryan, Connor","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","1","-","away",7952
+2023,"La Verne University","defense","Fernandez, Cesa","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7952
+2023,"Pomona-Pitzer","defense","Kirby Baynes","9","-","9","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Joey Asta","5","4","9","0.5/4","0.5","0.5/4","0.5","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Joe Posthauer","2","3","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Nick Wilde","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","2","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Michael Houk","1","4","5","1.5/6","1.5","1.5/6","1.5","-","0-0","-/-","-","-","1","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Emmett Thomas King I","2","3","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Kobey Jorgensen","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Caleb Chang","2","2","4","1.5/2","1.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Gabe Gangi-Saro","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Jacob O'Connell","3","-","3","-/-","-","-/-","-","-","0-0","-/-","1-79","1","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Benjamin Little","-","3","3","0.5/-","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Addison Redding","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Harry Zhou","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","CJ Jackson","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Rich Brutto","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Anderson Cynkar","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Thanio Bright","1","-","1","-/-","-","-/-","-","-","0-0","-/-","1-35","1","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Tarius Hamlin","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Cesar Fernandez","-","-","-","-/-","-","-/-","-","-","0-0","-/-","1-0","1","-","-","-","home",7950
+2023,"Pomona-Pitzer","defense","Thomas McConnel","4","9","13","0.5/1","0.5","-/-","-","-","0-0","-/-","1-21","1","1","-","-","away",7950
+2023,"Pomona-Pitzer","defense","David Gorman","2","9","11","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Andy Butler","2","4","6","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Tanner Gomes","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Jake Sugawara","2","3","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","George Cutting","1","4","5","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Kalani Pickett","1","3","4","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Thali Cobb","-","4","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Sean Maguire","-","3","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Joshua Yen","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Charlie Russo","1","2","3","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","4","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Eamon Glascott","2","1","3","1.0/8","1.0","1.0/8","1.0","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Nicholas Kaufma","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Ben Porter","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Ethan Norris","-","2","2","0.5/-","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Sathya Siddapur","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Gus Burns","1","-","1","1.0/11","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Bruce Burba","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Trevor Carson","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","William Welch","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Daniel Drucker","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Omaru Konneh","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"Pomona-Pitzer","defense","Max Eastman","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7950
+2023,"University of Chicago","defense","Cappellino,Aidan","8","2","10","2.5/7","2.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Skowronski,Will","7","1","8","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Minton,Josh","4","2","6","-/-","-","-/-","-","-","0-0","-/-","-","-","3","-","-","home",7947
+2023,"University of Chicago","defense","Sakashita,Stirling","4","1","5","1.0/4","1.0","1.0/4","1.0","1","1-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Cardona,Carlos","2","2","4","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","2","-","-","home",7947
+2023,"University of Chicago","defense","Rouse,Jim","4","-","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Meyer,Zach","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Weathers,Houston","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Shumard,Andrew","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7947
+2023,"University of Chicago","defense","Horowitz,Jake","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Partridge,Henry","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Marshall,Maceo","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Warden,Matthew","1","1","2","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","1","-","home",7947
+2023,"University of Chicago","defense","Hassibi,Kourosh","1","1","2","-/-","-","-/-","-","-","0-1","1/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Jasper,Cameron","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Kelly,Seamus","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Arnholt,Adison","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Long,Arthur","-","1","1","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","High,Madden","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Gorbatenko,Mark","1","-","1","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Degner,Luke","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Goodman,Will","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Bommarito-Logan,Rhys","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","TEAM","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7947
+2023,"University of Chicago","defense","Costa,Elijah","6","-","6","4.0/7","4.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Baynes,Kirby","5","-","5","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7947
+2023,"University of Chicago","defense","O'Connell,Jacob","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Reddinger,Addison","3","2","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Cryan,Connor","4","-","4","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7947
+2023,"University of Chicago","defense","Posthauer,Joe","4","-","4","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Thomas King,Emmett","3","1","4","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","2","-","-","away",7947
+2023,"University of Chicago","defense","Bright,Thanio","2","1","3","-/-","-","-/-","-","-","0-0","-/-","2-58","2","-","-","-","away",7947
+2023,"University of Chicago","defense","Holden,Jack","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Andersen,Austin","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Asta,Joey","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Chang,Caleb","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7947
+2023,"University of Chicago","defense","Houk,Michael","2","-","2","2.0/2","2.0","-/-","-","-","0-0","-/-","-","-","-","-","1","away",7947
+2023,"University of Chicago","defense","Jackson,CJ","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Jorgensen,Kobey","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Kang,Chris","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Kruger,George","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Lau,Andrew","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Littlefield,Benjamin","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Gangi-Saroukhanioff,Gabe","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Kuhlenkamp,Walter","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Brutto,Rich","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Cynkar,Anderson","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Edwards,Justin","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7947
+2023,"University of Chicago","defense","Gerber,Evan","-","-","-","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7947
+2023,"University of Redlands","defense","Emmett Thomas K","2","6","8","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","2","home",7953
+2023,"University of Redlands","defense","Thanio Bright","3","4","7","-/-","-","-/-","-","-","0-0","-/-","-","-","2","-","-","home",7953
+2023,"University of Redlands","defense","Joey Asta","5","1","6","1.0/2","1.0","1.0/2","1.0","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Joe Posthauer","4","1","5","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7953
+2023,"University of Redlands","defense","Kirby Baynes","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Jacob O'Connell","2","1","3","-/-","-","-/-","-","-","0-0","-/-","1-38","1","2","-","-","home",7953
+2023,"University of Redlands","defense","Addison Redding","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Thomas MacEachr","3","-","3","1.0/5","1.0","1.0/5","1.0","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Kobey Jorgensen","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Gabe Gangi-Saro","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Jack Holden","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Nick Wilde","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","home",7953
+2023,"University of Redlands","defense","Elijah Costa","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Caleb Chang","-","2","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Michael Houk","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","1","home",7953
+2023,"University of Redlands","defense","CJ Jackson","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Rich Brutto","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Calvin Miller","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Luke Carfaro","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","George Kruger","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Grady Johnson","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Benjamin Little","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Evan Gerber","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7953
+2023,"University of Redlands","defense","Jacob Sega","5","8","13","0.5/-","0.5","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7953
+2023,"University of Redlands","defense","Scott Tinsley","5","4","9","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Luke Purcella","-","8","8","0.5/1","0.5","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Dre Owens","5","2","7","1.0/3","1.0","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7953
+2023,"University of Redlands","defense","Laurence Willia","4","1","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Jaeden Thorn","1","4","5","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Elijah Valles","3","1","4","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7953
+2023,"University of Redlands","defense","Mikey Duran IV","2","2","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Jax Lee","-","4","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Maximus Susi","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Kamdin Karmann","-","3","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Cole Smith","1","1","2","-/-","-","-/-","-","-","0-0","-/-","1-0","1","1","-","-","away",7953
+2023,"University of Redlands","defense","Kailob Haag","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Jack Wilson","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Kaleb Gibbs","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7953
+2023,"University of Redlands","defense","Dre Owens","4","5","9","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Luke Purcella","6","2","8","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Matthew Lising","2","4","6","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Jacob Sega","1","5","6","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Kamdin Karmann","3","3","6","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Scott Tinsley","3","1","4","-/-","-","-/-","-","-","0-0","-/-","1-0","1","1","-","-","home",7956
+2023,"University of Redlands","defense","Jae Thorn","2","2","4","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Laure Williams","1","2","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Mario Jacobs","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Carte Thompson","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Mikey Duran IV","1","1","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Jax Lee","1","1","2","1.0/9","1.0","1.0/9","1.0","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Elijah Valles","1","-","1","-/-","-","-/-","-","-","0-0","-/-","1-0","1","-","-","-","home",7956
+2023,"University of Redlands","defense","Devean James","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Kailob Haag","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Kyle Freitas","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Aaron Muniz","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Kurtez Kimble","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","B Lingaolingao","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Graig Padgett","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","home",7956
+2023,"University of Redlands","defense","Gabe Gangi-Saro","5","4","9","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","Kirby Baynes","6","1","7","0.5/2","0.5","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7956
+2023,"University of Redlands","defense","Jack Holden","6","-","6","-/-","-","-/-","-","-","0-0","-/-","-","-","1","-","-","away",7956
+2023,"University of Redlands","defense","Joe Posthauer","3","2","5","1.0/1","1.0","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","Joey Asta","4","1","5","2.5/3","2.5","-/-","-","-","0-0","-/-","-","-","-","-","2","away",7956
+2023,"University of Redlands","defense","Kobey Jorgensen","3","1","4","1.0/5","1.0","1.0/5","1.0","-","0-0","-/-","-","-","-","-","1","away",7956
+2023,"University of Redlands","defense","Michael Houk","3","1","4","2.0/13","2.0","2.0/13","2.0","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","George Kruger","2","1","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","1","-","away",7956
+2023,"University of Redlands","defense","Benjamin Little","3","-","3","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","1","away",7956
+2023,"University of Redlands","defense","Addison Redding","2","-","2","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","2","away",7956
+2023,"University of Redlands","defense","Connor Cryan","-","1","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","Jacob O'Connell","1","-","1","-/-","-","-/-","-","-","0-0","-/-","1-72","1","-","-","-","away",7956
+2023,"University of Redlands","defense","Luke Carfaro","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","Thomas MacEachr","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","Tarius Hamlin","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
+2023,"University of Redlands","defense","Caleb Chang","1","-","1","-/-","-","-/-","-","-","0-0","-/-","-","-","-","-","-","away",7956
